@@ -1,0 +1,7 @@
+   <svg width="260" height="130">
+     <path id="curve" d="M 0 120 c 0 120, 130 0, 260 120"></path>
+     <text class="text" text-anchor="middle">
+        <textpath class="text-path" href="curve" startoffset="50%" >
+            KNOW YOUR FOOD
+        </textpath>
+     </text> </svg>

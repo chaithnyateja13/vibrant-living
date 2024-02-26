@@ -1,0 +1,250 @@
+body {
+  background-color: #ffc8a8;
+  padding: 2px;
+}
+nav {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: space-between;
+}
+.icons {
+  display: flex;
+  align-items: center;
+}
+.frame-image img {
+  width: 320px;
+}
+.frame-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.heading-pumpkin {
+  color: black;
+  font-size: 45px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.star-points {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.star-reviews {
+  align-items: center;
+}
+.total-count-review {
+  text-align: center;
+}
+
+.transparent {
+  color: #352817;
+  opacity: 50%;
+}
+.size1button {
+  font-size: 19px;
+  height: 40px;
+  width: 136px;
+  border-radius: 20px;
+  background-color: #ffc8a8;
+  color: black;
+}
+.size1button:hover {
+  background-color: black;
+  color: white;
+}
+.size2button {
+  font-size: 19px;
+  height: 40px;
+  width: 136px;
+  border-radius: 20px;
+  background-color: #ffc8a8;
+  color: black;
+}
+.size2button:hover {
+  background-color: black;
+  color: white;
+}
+.qty- {
+  height: 40px;
+  width: 40px;
+  font-size: 20px;
+  border-radius: 50px;
+  background-color: #352817;
+  color: white;
+  justify-content: 1px space-between;
+}
+.qty-:hover {
+  background-color: #494642;
+  color: white;
+}
+.qty-add {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  height: 40px;
+  width: 40px;
+  font-size: 20px;
+  border-radius: 50px;
+  background-color: #352817;
+  color: white;
+  justify-content: 1px space-between;
+}
+.qty-add:hover {
+  background-color: #494642;
+  color: white;
+}
+.numberofqty {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.numberofqty h3 {
+  font-size: 40px;
+  font-style: bold;
+}
+.add-cart {
+  align-items: center;
+  justify-content: center;
+  width: 259px;
+  height: 60px;
+  border-radius: 90px;
+  background-color: black;
+  color: white;
+}
+.deliver {
+  text-align: center;
+}
+.deliver p {
+  color: #494642;
+  opacity: 50%;
+  text-align: center;
+}
+.deliver h3 {
+  font-family: roboto;
+  text-align: center;
+  font-size: 35px;
+}
+.deliver h5 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.gluetten-free {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.slide {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.slide p {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.know-container {
+  position: relative;
+  display: flex;
+  height: 100px;
+  font-size: 35px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.letter-k {
+  position: absolute;
+  rotate: 330deg;
+  top: 40px;
+  left: 10px;
+}
+.letter-n {
+  position: absolute;
+  rotate: 330deg;
+  top: 29px;
+  left: 29px;
+}
+.letter-o-1 {
+  position: absolute;
+  rotate: 330deg;
+  top: 20px;
+  left: 50px;
+}
+.letter-w {
+  position: absolute;
+  rotate: 341deg;
+  top: 13px;
+  left: 70px;
+}
+.letter-y {
+  position: absolute;
+  rotate: 348deg;
+  top: 2px;
+  left: 116px;
+}
+.letter-o-2 {
+  position: absolute;
+  rotate: 336deg;
+  top: 0px;
+  left: 134px;
+}
+
+.letter-u {
+  position: absolute;
+  rotate: 358deg;
+  top: 1px;
+  left: 155px;
+}
+
+.letter-r {
+  position: absolute;
+  rotate: 6deg;
+  top: 2px;
+  left: 176px;
+}
+.letter-f {
+  position: absolute;
+  rotate: 17deg;
+  top: 11px;
+  left: 214px;
+}
+.letter-o-3 {
+  position: absolute;
+  rotate: 20deg;
+  top: 17px;
+  left: 230px;
+}
+.letter-o-4 {
+  position: absolute;
+  rotate: 18deg;
+  top: 26px;
+  left: 250px;
+}
+.letter-d {
+  position: absolute;
+  rotate: 30deg;
+  top: 36px;
+  left: 269px;
+}
+.facts-table h3 {
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.facts-table p {
+  text-align: center;
+  font-family: monospace;
+}
+table td {
+  border-bottom: 1px dotted red;
+}
+.seeds h3 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+}
+.seeds .seeds-flex {
+  width: 110;
+  height: 90px;
+  display: flex;
+  flex-wrap: wrap;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
